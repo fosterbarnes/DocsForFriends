@@ -11,10 +11,10 @@ for weird frame pacing, i've found that to be CPU bound. turning off park contro
 download park control: https://bitsum.com/parkcontrol/
 
 - install the bitsum profile
-<td><img src="pic/1.png" alt="i1" /></td>
+<td><img src="pic/GPUIssues/1.png" alt="i1" /></td>
 
 - select 'bitsum highest performance' and make active
-<td><img src="pic/2.png" alt="2" /></td>
+<td><img src="pic/GPUIssues/2.png" alt="2" /></td>
 
 - park control wants to start on windows startup by default, but after the power plan is set it's not necessary. so you probably want to turn that off
 
