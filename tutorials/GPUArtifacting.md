@@ -1,6 +1,6 @@
 ## Example of Issue
 
-<td><img src="pic/GPUArtifacting/1.png" alt="i1" /></td>
+<td><img src="https://raw.githubusercontent.com/fosterbarnes/DocsForFriends/main/tutorials/pic/GPUArtifacting/1.png" alt="i1" /></td>
 
 ## 1st Potential Fix: Clean GPU Driver Re-Install
 
@@ -17,20 +17,22 @@
 
 #### Backup NVIDIA Settings
 
-| <strong>1.</strong> Open 'nvidiaProfileInspector.exe' from your downloads, or wherever you unzipped it. |
-|---|
+<strong>1.</strong> Open 'nvidiaProfileInspector.exe' from your downloads, or wherever you unzipped it. 
+
 
 <br>
 
-| <strong>2.</strong> Select 'Export' ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  |
+<strong>2.</strong> Select 'Export' 
+|‎|
 |---|
-| ![2](pic/GPUArtifacting/8.png) |
+| ![2](https://raw.githubusercontent.com/fosterbarnes/DocsForFriends/main/tutorials/pic/GPUArtifacting/8.png) |
 
 <br>
 
-| <strong>3.</strong> Select 'Export all customized profiles'. Save this somewhere memorable.  |
+<strong>3.</strong> Select 'Export all customized profiles'. Save this somewhere memorable.
+||
 |---|
-| ![3](pic/GPUArtifacting/9.png) |
+| ![3](https://raw.githubusercontent.com/fosterbarnes/DocsForFriends/main/tutorials/pic/GPUArtifacting/9.png) |
 
 You can close nvidiaProfileInspector when done exporting.
 
@@ -38,64 +40,73 @@ You can close nvidiaProfileInspector when done exporting.
 
 #### Boot into Safe Mode
 
-| <strong>1.</strong> Start holding 'Shift', then restart your computer from the start menu. Keep holding shift until you see the menu from 'Step 2' |
+<strong>1.</strong> Start holding 'Shift', then restart your computer from the start menu. Keep holding shift until you see the menu from 'Step 2'
+||
 |---|
-| ![Step 1](pic/GPUArtifacting/2.png) |
+| ![Step 1](https://raw.githubusercontent.com/fosterbarnes/DocsForFriends/main/tutorials/pic/GPUArtifacting/2.png) |
 
 <br>
 
-| <strong>2.</strong> Select 'Troubleshoot' ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  |
+<strong>2.</strong> Select 'Troubleshoot'
+||
 |---|
-| ![Step 2](pic/GPUArtifacting/3.png) |
+| ![Step 2](https://raw.githubusercontent.com/fosterbarnes/DocsForFriends/main/tutorials/pic/GPUArtifacting/3.png) |
 
 <br>
 
-| <strong>3.</strong> Select 'Advanced options' ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  |
+<strong>3.</strong> Select 'Advanced options' 
+||
 |---|
-| ![Step 3](pic/GPUArtifacting/4.png) |
+| ![Step 3](https://raw.githubusercontent.com/fosterbarnes/DocsForFriends/main/tutorials/pic/GPUArtifacting/4.png) |
 
 <br>
 
-| <strong>4.</strong> Select 'Startup settings'  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ |
+<strong>4.</strong> Select 'Startup settings' 
+||
 |---|
-| ![Step 4](pic/GPUArtifacting/5.png) |
+| ![Step 4](https://raw.githubusercontent.com/fosterbarnes/DocsForFriends/main/tutorials/pic/GPUArtifacting/5.png) |
 
 <br>
 
-| <strong>5.</strong> Select 'Restart' ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  |
+<strong>5.</strong> Select 'Restart'
+||
 |---|
-| ![Step 5](pic/GPUArtifacting/6.png) |
+| ![Step 5](https://raw.githubusercontent.com/fosterbarnes/DocsForFriends/main/tutorials/pic/GPUArtifacting/6.png) |
 
 <br>
 
-| <strong>6.</strong> Press '4' on your keyboard  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ |
+<strong>6.</strong> Press '4' on your keyboard
+||
 |---|
-| ![Step 6](pic/GPUArtifacting/7.png) |
+| ![Step 6](https://raw.githubusercontent.com/fosterbarnes/DocsForFriends/main/tutorials/pic/GPUArtifacting/7.png) |
 
 <br>
 
 #### Run DDU and clean GPU Drivers
 
-| <strong>1.</strong> Ignore the first-run warning. Press 'OK' ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  |
-|---|
+<strong>1.</strong> Ignore the first-run warning. Press 'OK'
+
 
 <br>
 
-| <strong>2.</strong> Press 'Close' (ignore this step if this is not your first run of DDU) |
+<strong>2.</strong> Press 'Close' (ignore this step if this is not your first run of DDU)
+||
 |---|
-| ![DDU2](pic/GPUArtifacting/11.png) |
+| ![DDU2](https://raw.githubusercontent.com/fosterbarnes/DocsForFriends/main/tutorials/pic/GPUArtifacting/11.png) |
 
 <br>
 
-| <strong>3.</strong> Select 'GPU' as device type ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎|
+<strong>3.</strong> Select 'GPU' as device type
+|‎|
 |---|
-| ![DDU2](pic/GPUArtifacting/12.png) |
+| ![DDU2](https://raw.githubusercontent.com/fosterbarnes/DocsForFriends/main/tutorials/pic/GPUArtifacting/12.png) |
 
 <br>
 
-| <strong>4.</strong> Select 'Clean and restart' (Yours won't be greyed out, mine is bc I'm runnning it in a virtual machine)|
+<strong>4.</strong> Select 'Clean and restart' (Yours won't be greyed out, mine is bc I'm runnning it in a virtual machine)
+||
 |---|
-| ![DDU2](pic/GPUArtifacting/13.png) |
+| ![DDU2](https://raw.githubusercontent.com/fosterbarnes/DocsForFriends/main/tutorials/pic/GPUArtifacting/13.png) |
 
 <br>
 
