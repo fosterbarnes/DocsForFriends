@@ -1,3 +1,18 @@
+# GPU Artifacting
+
+GPU artifacting is caused (generally) by one of four issues:
+1. Corrupt driver, or other software issue
+2. GPU/motherboard misalignment
+3. Failing GPU
+4. Aggressive GPU overclocking
+
+This guide covers the following:
+
+1. Corrupt driver, or other software issue [Clean GPU Driver Re-Install](https://github.com/fosterbarnes/DocsForFriends/wiki/GPU-Artifacting#1st-potential-fix-clean-gpu-driver-re-install)
+
+GPU/motherboard misalignment [Re-Seat GPU into MOBO](https://github.com/fosterbarnes/DocsForFriends/wiki/GPU-Artifacting#2nd-potential-fix-re-seat-gpu-into-mobo)
+
+
 ## Example of Issue
 
 <td><img src="https://raw.githubusercontent.com/fosterbarnes/DocsForFriends/main/tutorials/pic/GPUArtifacting/1.png" alt="i1" /></td>
