@@ -10,7 +10,7 @@ This guide covers the following:
 
 1. Corrupt driver, or other software issue [Clean GPU Driver Re-Install](https://github.com/fosterbarnes/DocsForFriends/wiki/GPU-Artifacting#1st-potential-fix-clean-gpu-driver-re-install)
 
-GPU/motherboard misalignment [Re-Seat GPU into MOBO](https://github.com/fosterbarnes/DocsForFriends/wiki/GPU-Artifacting#2nd-potential-fix-re-seat-gpu-into-mobo)
+2. GPU/motherboard misalignment [Re-Seat GPU into MOBO](https://github.com/fosterbarnes/DocsForFriends/wiki/GPU-Artifacting#2nd-potential-fix-re-seat-gpu-into-mobo)
 
 
 ## Example of Issue
